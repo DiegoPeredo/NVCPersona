@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona", "apiPersona\apiPersona.csproj", "{621F9FE6-02EC-446B-A08D-456644D47056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona.Tests", "apiPersona.Tests\apiPersona.Tests.csproj", "{DB1AF3DD-5BD9-44A3-AEA3-92D14BFC2484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621F9FE6-02EC-446B-A08D-456644D47056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621F9FE6-02EC-446B-A08D-456644D47056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621F9FE6-02EC-446B-A08D-456644D47056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621F9FE6-02EC-446B-A08D-456644D47056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1AF3DD-5BD9-44A3-AEA3-92D14BFC2484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1AF3DD-5BD9-44A3-AEA3-92D14BFC2484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1AF3DD-5BD9-44A3-AEA3-92D14BFC2484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1AF3DD-5BD9-44A3-AEA3-92D14BFC2484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F4123A-F7E4-4254-A504-D2EA15CC5B56}
+	EndGlobalSection
+EndGlobal
